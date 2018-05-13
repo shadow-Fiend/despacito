@@ -1,6 +1,6 @@
 ** PS：内容均为网上摘抄，自己整理；希望大家共同学习，共同进步（如有错误欢迎指正，联系qq547106430，谢谢！） **
 
-## HTML/CSS部分 
+## HTML/CSS部分
 
 ** 1、什么是盒子模型？ **
 
@@ -271,7 +271,7 @@ function stopDefault(e){
     window.event.returnValue = false;  
   }  
   return false;  
-}; 
+};
 ```
 
 ** 7、下面程序执行后弹出什么样的结果? **
@@ -362,51 +362,4 @@ Gulp,Grunt等；
 
 Node.js、MVVM、React-native,Angular,Weex等
 
-CSDN,Segmentfault,博客园,掘金,Stackoverflow,伯乐在线,github等等（个人一些成果发布在上面）
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CSDN,Segmentfault,博客园,掘金,Stackoverflow,伯乐在线,github等等（个人一些成果发布在上面 http://shadow-fiend.github.io/despacito ）
